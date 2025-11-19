@@ -1,0 +1,5 @@
+psutil>=5.9.5
+pynvml>=11.5.0
+requests>=2.31.0 
+flask>=2.3.2 
+pymysql>=1.1.0 
